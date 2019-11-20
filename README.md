@@ -1,6 +1,7 @@
 # SkyWalkingAlarm
 配合SkyWalking实现钉钉告警
 ---
+## [详细教程](https://blog.aifudao.site/2019/11/20/skywalking-alarm/)
 ## 需要在钉钉群创建机器人，获取secret和access_token
 1. 打开钉钉群，在群管理处添加机器人  
 2. 选择自定义机器人---通过WebHook介入自定义服务  
